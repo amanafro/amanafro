@@ -30,8 +30,8 @@ Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgnang. Ich baue hier klei
 
 |Bewertungen|Skill-Level|
 |----|----|
-|5|⬜⬜⬜⬜⬜|
-|4|⬜⬜⬜⬜|
-|3|⬜⬜⬜|
-|2|⬜⬜|
-|1|⬜|
+|5| Experte, viel praktische Erfahrung |
+|4| Gute Kenntnisse, viel Erfahrung |
+|3| Theoretische Kenntnisse, praktische Erfahrungen |
+|2|	Zusammenhänge, wenig praktische Erfahrung |
+|1|	Grundkenntnisse, keine praktische Erfahrung |
