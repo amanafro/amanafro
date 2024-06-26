@@ -23,9 +23,15 @@ Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgnang. Ich baue hier klei
 |[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)|4⬜⬜⬜⬜|
 |[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)|4⬜⬜⬜⬜|
 
-|Entwicklungsumgebungen|Skill-Leve|
+|Entwicklungsumgebungen|Skill-Level|
 |----|----|
 |[![Neovim](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)|5⬜⬜⬜⬜⬜|
 |[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)|5⬜⬜⬜⬜⬜|
 
-
+|Bewertungen|Skill-Level|
+|----|----|
+|5|⬜⬜⬜⬜⬜|
+|4|⬜⬜⬜⬜|
+|3|⬜⬜⬜|
+|2|⬜⬜|
+|1|⬜|
