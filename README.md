@@ -1,5 +1,5 @@
 # 💫 Über mich:
-Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgnang. Ich baue hier kleine Projekte, damit ich mein Wissen erweitern kann. Wenn man die Projekte unten sieht, habe ich entweder Javascript oder Golang benutzt. Hier sind mein [Lebenslauf](Lebenslauf.pdf) und [Notenübersicht](Übersicht_Modulnoten_Amanuel_Isaak.pdf) und hoffe auf hier baldige Antwort.
+Ich bin Amanuel und besuche momentan die IMS im 3. Jahrgnang. Ich baue hier kleine Projekte, damit ich mein Wissen erweitern kann. Wenn man die Projekte unten sieht, habe ich entweder Javascript oder Golang benutzt. Hier sind mein [Lebenslauf](Lebenslauf.pdf) und [Notenübersicht](Übersicht_Modulnoten_Amanuel_Isaak.pdf) und ich hoffe auf Ihre baldige Antwort.
 
 
 # 💻 Programmierkenntnisse:
